@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Amir</h1>
 <h3 align="center">A passionate Front-End Developer from Iran.</h3>
-
+<img align="center" src="https://cdn.dribbble.com/userupload/21436944/file/original-3212fe7a869a76063e59d76c39176c45.gif" width="100%">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amirmahdaviworks&label=Profile%20views&color=0e75b6&style=flat" alt="amirmahdaviworks" /> </p>
 
 - 🌱 I’m currently learning **JavaScript, React, TypeScript, and modern Front-End development.**
